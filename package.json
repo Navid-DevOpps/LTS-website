@@ -1,0 +1,14 @@
+{
+  "name": "lts-website",
+  "version": "1.0.0",
+  "description": "Restaurant minimalist website",
+  "scripts": {
+    "test": "echo \"No tests configured\" && exit 0"
+  },
+  "keywords": ["restaurant", "taco", "static-site"],
+  "author": "Divan Fofia",
+  "license": "ISC",
+  "dependencies": {
+    "@vercel/speed-insights": "^2.0.0"
+  }
+}
